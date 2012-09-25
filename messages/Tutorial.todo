@@ -1,5 +1,9 @@
-How to Use Sublime Tasks:
+How to Use PlainTasks:
 This is my fork of PlainTasks, just for me to play around with & no doubt break in just a few short hours!
+I want to change it so that it:
+ ☐ Plays nicely with TaskPaper
+ ☐ Will read and write from .md format
+ ☐ So that I can use it accross Mac & Windows in SublimeText & be human readable/editable accross Android & iOS
 
 Projects:
  ☐ Anything with colon at the end of the line is a project title
